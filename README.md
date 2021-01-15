@@ -1,4 +1,4 @@
-# Kickstarters
+# Kickstarters Project
 
 ## Description
 
